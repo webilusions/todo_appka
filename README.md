@@ -1,5 +1,4 @@
 # Tudu list
+## zoznam úloh
+---
 
-Test todo aplikácie
-************************
-////////////////
